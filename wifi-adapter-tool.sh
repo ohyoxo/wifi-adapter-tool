@@ -1,5 +1,5 @@
 #!/bin/bash
-# Script Name: wifi_adapter_check.sh
+# Script Name: wifi_adapter_tool.sh
 # Purpose: Wi-Fi adapter tool with AI intelligence for checking adapter details, capabilities, and enabling hacking modes for ethical pentesting
 
 # Enhanced color detection
