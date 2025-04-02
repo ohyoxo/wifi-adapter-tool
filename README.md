@@ -30,28 +30,28 @@ Kali Linux is a special OS built for security testing. It comes with tons of too
    - Open a terminal (press `Ctrl + Alt + T` in Kali).
    - Type:
      ```bash
-     git clone https://github.com/Teammatriix/wifi-adapter-tool.git
+     git clone https://github.com/Teammatriix/wifi_adapter_check.git
      ```
    - This downloads the tool to your computer.
 
 2. **Navigate to the Directory**:
    - Move into the folder:
      ```bash
-     cd wifi-adapter-tool
+     cd wifi_adapter_check
      ```
    - You’re now in the tool’s home!
 
 3. **Make the Script Executable**:
    - Tell Kali it’s a program:
      ```bash
-     chmod +x wifi-adapter-tool.sh
+     chmod +x wifi_adapter_check.sh
      ```
    - This is like flipping the “on” switch.
 
 4. **Run the Script**:
    - Start it with:
      ```bash
-     sudo ./wifi-adapter-tool.sh
+     sudo ./wifi_adapter_check.sh
      ```
    - `sudo` gives it superpowers to control your adapter.
 
@@ -86,7 +86,7 @@ New to pentesting? No problem! Here’s how to use the tool step-by-step.
 
 1. **Launch the Script**:
    ```bash
-   sudo ./wifi-adapter-tool.sh
+   sudo ./wifi_adapter_check.sh
    ```
    - You’ll see a cool banner and a check for those helper tools.
 
