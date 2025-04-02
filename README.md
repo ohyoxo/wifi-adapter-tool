@@ -44,7 +44,7 @@ Kali Linux is a special OS built for security testing. It comes with tons of too
 3. **Make the Script Executable**:
    - Tell Kali it’s a program:
      ```bash
-     chmod +x wifi-adapter-tool
+     chmod +x wifi-adapter-tool.sh
      ```
    - This is like flipping the “on” switch.
 
