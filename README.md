@@ -86,7 +86,7 @@ New to pentesting? No problem! Here’s how to use the tool step-by-step.
 
 1. **Launch the Script**:
    ```bash
-   sudo ./wifi-adapter-tool
+   sudo ./wifi-adapter-tool.sh
    ```
    - You’ll see a cool banner and a check for those helper tools.
 
