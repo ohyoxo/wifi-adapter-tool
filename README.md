@@ -51,7 +51,7 @@ Kali Linux is a special OS built for security testing. It comes with tons of too
 4. **Run the Script**:
    - Start it with:
      ```bash
-     sudo ./wifi-adapter-tool
+     sudo ./wifi-adapter-tool.sh
      ```
    - `sudo` gives it superpowers to control your adapter.
 
